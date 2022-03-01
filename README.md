@@ -1,0 +1,1 @@
+This fully responsive portfolio website exhibits my 3 sample projects , including an e-commerce website and a weather app using an external API.
